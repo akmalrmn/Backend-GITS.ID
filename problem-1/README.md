@@ -18,9 +18,11 @@ Output:
    ```
 ## Output screenshots 🔨
 1:
-<img src="./outputs/output-1.jpg" alt="Example screenshot" width="400"/>
+<img src="./outputs/output-1.jpg" alt="Example screenshot"/>
+
 2:
-<img src="./outputs/output-2.jpg" alt="Example screenshot" width="400"/>
+<img src="./outputs/output-2.jpg" alt="Example screenshot"/>
+
 3:
-<img src="./outputs/output-3.jpg" alt="Example screenshot" width="400"/>
+<img src="./outputs/output-3.jpg" alt="Example screenshot"/>
 
