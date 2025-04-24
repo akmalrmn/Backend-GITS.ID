@@ -26,3 +26,8 @@ Output:
 3:
 <img src="./outputs/output-3.jpg" alt="Example screenshot"/>
 
+## How to run 🏃🏼‍♂️💨
+1. Run this command:
+```bash
+go run main.go
+```
